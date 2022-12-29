@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaiqJamal
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Bachelors in Software Engineering at NUST, Islamabad Pakistan
+- 🌱 I’m currently studying Bachelors in Software Engineering at NUST, Islamabad Pakistan
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me; email at faiqjamal06@gmail.com
 
