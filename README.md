@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaiqJamal
-- 👀 I’m interested in Data Science, Data Analysis and Visualization
+- 👀 I’m interested in Data Science, Data Analysis and Machine Learning
 - 🌱 I’m currently studying Bachelors in Software Engineering at NUST, Islamabad Pakistan
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me; email at faiqjamal06@gmail.com
